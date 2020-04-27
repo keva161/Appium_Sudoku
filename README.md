@@ -5,9 +5,3 @@ Playing around with [Appium](https://appium.io/) and a Sudoku Android app called
 Currently it reads in the games tiles, uses [pytesseract](https://github.com/madmaze/pytesseract) to convert each tile image to text. And then once all the tiles are read in. Displays them in a nice grid.
 
 Code is VERY messy.. but I will clean it up in future commits.
-
-TODO:
-
-Use backtracking to solve the puzzle
-???
-Profit
